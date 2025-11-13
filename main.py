@@ -1,11 +1,6 @@
-
-# Your code here
+import random
 
 # Classes
-
-class Entity:
-    def __init__(self, name):
-        self.name = names
 
 
 
